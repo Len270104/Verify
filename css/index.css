@@ -95,11 +95,11 @@ table {
     color: #515152e4;
     font-size: 20px;
     padding-right: 8px;
+    width: 145px;
     font-family: "Nokora", sans-serif;
 }
 .table_table__wntE7 td {
     font-size: 23px;
-    
 }
 
 .table_table__wntE7 td span {
@@ -109,7 +109,7 @@ table {
 .table_kmTextBold__as4pN {
     font-weight: 800;
     font-size: 13px;
-    margin-left: 100px;
+    /* margin-left: 360px; */
     font-family: "Nokora", sans-serif;
     font-weight: bold;
 }
@@ -203,7 +203,7 @@ footer {
     .table_kmTextBold__as4pN {
         font-weight: 800;
         font-size: 15px;
-        margin-left: 49px;
+        /* margin-left: 49px; */
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
@@ -218,7 +218,7 @@ footer {
     .table_kmTextBold__as4pN {
         font-weight: 800;
         font-size: 10px;
-        margin-left: -20px;
+        /* margin-left: -20px; */
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
@@ -249,7 +249,7 @@ footer {
     .table_kmTextBold__as4pN {
         font-weight: 800;
         font-size: 10px;
-        margin-left: 1px;
+        /* margin-left: -px; */
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
