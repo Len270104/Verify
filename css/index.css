@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
     background-color: rgb(221, 219, 219);
 }
 
@@ -109,7 +106,7 @@ table {
 .table_kmTextBold__as4pN {
     font-weight: 800;
     font-size: 13px;
-    /* margin-left: 360px; */
+    margin-left: 111px;
     font-family: "Nokora", sans-serif;
     font-weight: bold;
 }
@@ -155,6 +152,7 @@ table {
 
 
 footer {
+    margin-top: 59px;
     background-color: #1e6bb8;
     background-size: cover;
     color: rgb(255, 255, 255);
@@ -192,9 +190,27 @@ footer {
     width: 24px;
     height: 24px;
 }
+
+.footer-content .span_text{
+    text-align: start;
+    font-family: "Noto Sans", sans-serif;
+}
+    
+
+
 /* ipad pro */
 @media (max-width: 1199.98px) {
-   
+    .table_kmTextBold__as4pN {
+        font-weight: 800;
+        font-size: 20px;
+        margin-left: px;
+        font-family: "Nokora", sans-serif;
+        font-weight: bold;
+    }
+    .table_table__wntE7 td span {
+        font-size: 20px;
+        font-weight: 550;
+    }
 
 
 }
@@ -203,12 +219,12 @@ footer {
     .table_kmTextBold__as4pN {
         font-weight: 800;
         font-size: 15px;
-        /* margin-left: 49px; */
+        margin-left: px;
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
     .table_table__wntE7 td span {
-        font-size: 22px;
+        font-size: 18px;
         font-weight: 550;
     }
 
@@ -217,8 +233,8 @@ footer {
 @media (max-width: 767.98px) {
     .table_kmTextBold__as4pN {
         font-weight: 800;
-        font-size: 10px;
-        /* margin-left: -20px; */
+        font-size: 19px;
+        margin-left: -20px;
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
@@ -249,7 +265,7 @@ footer {
     .table_kmTextBold__as4pN {
         font-weight: 800;
         font-size: 10px;
-        /* margin-left: -px; */
+        margin-left: -30px;
         font-family: "Nokora", sans-serif;
         font-weight: bold;
     }
