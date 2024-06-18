@@ -193,7 +193,14 @@ footer {
 
 .footer-content .span_text{
     text-align: start;
-    font-family: "Noto Sans", sans-serif;
+    /* font-family: "Noto Sans", sans-serif; */
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+}
+
+.footer-content .lek{
+    font-size: 13px;
+    font-weight: 200;
 }
     
 
